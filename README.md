@@ -15,7 +15,8 @@ En formación para convertirme en **Data Scientist, Machine Learning Engineer y 
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
@@ -25,6 +26,8 @@ En formación para convertirme en **Data Scientist, Machine Learning Engineer y 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
 
@@ -33,6 +36,7 @@ En formación para convertirme en **Data Scientist, Machine Learning Engineer y 
 - Sistema de inventario y ventas para tiendas  
 - PetControl: gestión de mascotas (login, CRUD, base de datos)  
 - Monitoreo de hipocalcemia en vacas con Node-RED y ESP32  
+- Detección de **microsueños y bostezos** con visión por computadora y MediaPipe  
 
 ---
 
@@ -45,11 +49,11 @@ En formación para convertirme en **Data Scientist, Machine Learning Engineer y 
 ## Actualmente aprendiendo
 - Ciencia de Datos y Machine Learning (pandas, numpy, scikit-learn)  
 - Ingeniería de Datos y Big Data  
-- Bases de datos no relacionales (MongoDB, Firebase)  
 - Protocolos de redes avanzados  
+- Aplicaciones de visión por computadora en IoT  
 
 ---
 
-## Contacto
-📧 hayderfino@gmail.com  
-Puedes contactarme en mi perfil de GitHub o colaborar en proyectos open-source.
+📫 Contacto: **hayderfino@gmail.com**  
+Puedes contactarme en mi perfil de GitHub o colaborar en proyectos open-source.  
+
