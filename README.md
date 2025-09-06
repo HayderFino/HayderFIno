@@ -15,11 +15,16 @@ En formación para convertirme en **Data Scientist, Machine Learning Engineer y 
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
@@ -38,10 +43,13 @@ En formación para convertirme en **Data Scientist, Machine Learning Engineer y 
 ---
 
 ## Actualmente aprendiendo
-- Ciencia de Datos y Machine Learning  
+- Ciencia de Datos y Machine Learning (pandas, numpy, scikit-learn)  
 - Ingeniería de Datos y Big Data  
+- Bases de datos no relacionales (MongoDB, Firebase)  
 - Protocolos de redes avanzados  
 
 ---
 
+## Contacto
+📧 hayderfino@gmail.com  
 Puedes contactarme en mi perfil de GitHub o colaborar en proyectos open-source.
