@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/intro.svg" alt="Intro animation" />
+</p>
 
 # 👋 Hi, I'm Hayder Fino  
 
@@ -56,13 +59,6 @@
 ---
 
 ## ✉️ Contact
-📩 **hayderfino@gmail.com**   
+📩 **hayderfino@gmail.com**  
+🔗 [GitHub Profile](https://github.com/HayderFino)  
 
----
-
-<style>
-  img:hover {
-    transform: scale(1.1);
-    transition: 0.3s;
-  }
-</style>
