@@ -22,19 +22,19 @@ Training to become a **Data Scientist, Machine Learning Engineer, and Data Engin
 ## Technologies & Tools <a name="tech"></a>  
 <div align="center">
 
-### 💻 Programming & Web
+### Programming & Web
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css,bootstrap" />
 
-### 🗄️ Databases
+### Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" />
 
-### 📊 Data Science & Visualization
+### Data Science & Visualization
 <img src="https://skillicons.dev/icons?i=numpy,pandas,opencv,matplotlib,seaborn" />
 
-### ⚙️ Tools & DevOps
+### Tools & DevOps
 <img src="https://skillicons.dev/icons?i=git,maven,npm,pnpm,docker,anaconda,linux" />
 
-### 🔌 Hardware & IoT
+### Hardware & IoT
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 
 </div>
