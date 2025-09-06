@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/intro.svg" alt="Intro animation" />
+  <img src="./assetsassets/intro.svg" alt="Intro animation" />
 </p>
 
 # 👋 Hi, I'm Hayder Fino  
