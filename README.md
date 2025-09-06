@@ -1,35 +1,25 @@
-<p align="center">
-  
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="800" height="120" viewBox="0 0 800 120" preserveAspectRatio="xMidYMid meet">
+# Hi, I'm 
+<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .txt { font: 28px 'Courier New', monospace; fill: #0f172a; }
-    .dot { fill: #0f172a; opacity: 0; }
+    .txt { 
+      font: 28px 'Courier New', monospace; 
+      fill: #0f172a; 
+    }
+    .dot { 
+      fill: #0f172a; 
+      opacity: 0; 
+      animation: blink 1s infinite; 
+    }
+    @keyframes blink {
+      0%, 50% { opacity: 1; }
+      51%, 100% { opacity: 0; }
+    }
   </style>
-
-  <!-- animated headline (fade+slide) -->
-  <text x="50%" y="58" text-anchor="middle" class="txt" opacity="0" transform="translate(-20,0)">
-    Hi, I'm Hayder Fino
-    <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="0s" fill="freeze" />
-    <animateTransform attributeName="transform" type="translate" from="-20 0" to="0 0" dur="0.9s" begin="0s" fill="freeze"/>
-  </text>
-
-  <!-- animated "dots" loader (blinking) -->
-  <g transform="translate(520,75)">
-    <circle cx="0" cy="0" r="4" class="dot">
-      <animate attributeName="opacity" values="0;1;0" dur="1.2s" repeatCount="indefinite" begin="0s"/>
-    </circle>
-    <circle cx="14" cy="0" r="4" class="dot">
-      <animate attributeName="opacity" values="0;1;0" dur="1.2s" repeatCount="indefinite" begin="0.2s"/>
-    </circle>
-    <circle cx="28" cy="0" r="4" class="dot">
-      <animate attributeName="opacity" values="0;1;0" dur="1.2s" repeatCount="indefinite" begin="0.4s"/>
-    </circle>
-  </g>
+  <text x="10" y="50" class="txt">Hayder Fino</text>
+  <circle cx="200" cy="45" r="4" class="dot"/>
 </svg>
 
-</p>
+---
 
 # Hi, I'm Hayder Fino  
 
