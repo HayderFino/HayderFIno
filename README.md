@@ -2,11 +2,11 @@
   <img src="./assetsassets/intro.svg" alt="Intro animation" />
 </p>
 
-# 👋 Hi, I'm Hayder Fino  
+# Hi, I'm Hayder Fino  
 
-🎓 Student of **Systems Engineering at Unisangil (8th semester)**  
-💻 Passionate about software development, cybersecurity, and data management.  
-📊 Training to become a **Data Scientist, Machine Learning Engineer, and Data Engineer**.  
+Student of **Systems Engineering at Unisangil (8th semester)**  
+Passionate about software development, cybersecurity, and data management.  
+Training to become a **Data Scientist, Machine Learning Engineer, and Data Engineer**.  
 
 ---
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 Technologies & Tools <a name="tech"></a>  
+## Technologies & Tools <a name="tech"></a>  
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css,bootstrap,mysql,firebase,postgresql,mongodb,linux,docker,anaconda,arduino,raspberrypi" /><br>
@@ -31,16 +31,16 @@
 
 ---
 
-## 📌 Featured Projects <a name="projects"></a>  
-- 🔑 Key management system (Unisangil)  
-- 🛒 Inventory and sales system for stores  
-- 🐾 **PetControl**: pet management (login, CRUD, database)  
-- 🐄 Hypocalcemia monitoring in cows with Node-RED and ESP32  
-- 💤 Detection of **microsleeps and yawns** using computer vision and MediaPipe  
+## Featured Projects <a name="projects"></a>  
+-  Key management system (Unisangil)  
+-  Inventory and sales system for stores  
+-  **PetControl**: pet management (login, CRUD, database)  
+-  Hypocalcemia monitoring in cows with Node-RED and ESP32  
+-  Detection of **microsleeps and yawns** using computer vision and MediaPipe  
 
 ---
 
-## 📊 GitHub Statistics <a name="stats"></a>  
+##  GitHub Statistics <a name="stats"></a>  
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HayderFino&show_icons=true&theme=default)  
@@ -50,7 +50,7 @@
 
 ---
 
-## 📚 Currently Learning <a name="learning"></a>  
+## Currently Learning <a name="learning"></a>  
 - Data Science and Machine Learning (pandas, numpy, scikit-learn)  
 - Data Engineering and Big Data  
 - Advanced Networking Protocols  
@@ -58,7 +58,7 @@
 
 ---
 
-## ✉️ Contact
-📩 **hayderfino@gmail.com**  
-🔗 [GitHub Profile](https://github.com/HayderFino)  
+##  Contact
+**hayderfino@gmail.com**  
+[GitHub Profile](https://github.com/HayderFino)  
 
