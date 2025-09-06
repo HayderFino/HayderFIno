@@ -56,8 +56,7 @@
 ---
 
 ## ✉️ Contact
-📩 **hayderfino@gmail.com**  
-🔗 [GitHub Profile](https://github.com/HayderFino)  
+📩 **hayderfino@gmail.com**   
 
 ---
 
