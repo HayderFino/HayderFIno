@@ -1,6 +1,6 @@
 # Hola, soy Hayder Fino  
 
-Estudiante de **Ingeniería de Sistemas en Unisangil (5° semestre)**  
+Estudiante de **Ingeniería de Sistemas en Unisangil (8° semestre)**  
 Apasionado por el desarrollo de software, la ciberseguridad y la gestión de datos.  
 En formación para convertirme en **Data Scientist, Machine Learning Engineer y Data Engineer**.  
 
