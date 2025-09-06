@@ -1,25 +1,4 @@
-# Hi, I'm 
-<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .txt { 
-      font: 28px 'Courier New', monospace; 
-      fill: #0f172a; 
-    }
-    .dot { 
-      fill: #0f172a; 
-      opacity: 0; 
-      animation: blink 1s infinite; 
-    }
-    @keyframes blink {
-      0%, 50% { opacity: 1; }
-      51%, 100% { opacity: 0; }
-    }
-  </style>
-  <text x="10" y="50" class="txt">Hayder Fino</text>
-  <circle cx="200" cy="45" r="4" class="dot"/>
-</svg>
 
----
 
 # Hi, I'm Hayder Fino  
 
