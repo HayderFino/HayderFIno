@@ -1,16 +1,25 @@
 # Hola, soy Hayder Fino  
 
-Estudiante de **Ingeniería de Sistemas en Unisangil (8° semestre)**  
+Estudiante de **Ingeniería de Sistemas en Unisangil (5° semestre)**  
 Apasionado por el desarrollo de software, la ciberseguridad y la gestión de datos.  
 En formación para convertirme en **Data Scientist, Machine Learning Engineer y Data Engineer**.  
 
 ---
 
 ## Tecnologías y herramientas
-- Lenguajes: **Java, Python, JavaScript, HTML, CSS**
-- Bases de datos: **MariaDB, SQL**
-- Frameworks / Herramientas: **Node-RED, Maven, Arduino/ESP32**
-- Intereses: **Redes, Ciberseguridad, IoT, Data Science**
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 
 ---
 
@@ -36,5 +45,3 @@ En formación para convertirme en **Data Scientist, Machine Learning Engineer y 
 ---
 
 Puedes contactarme en mi perfil de GitHub o colaborar en proyectos open-source.
-
-✉️ Puedes contactarme en mi perfil de GitHub o colaborar en proyectos open-source 🚀
